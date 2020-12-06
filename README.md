@@ -1,2 +1,2 @@
-# electronapp
-Electron JS
+# ShoppingList
+Electron JS with ShoppingList
